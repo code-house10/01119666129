@@ -1,0 +1,49 @@
+﻿@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZy2xQjA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZ_OxQjA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xQjA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZ5-xQjA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZ3O2QjA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZ0q2QjA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/changa/v27/2-c79JNi2YuVOUcOarRPgnNGooxCZy22QjA.ttf) format('truetype');
+}
